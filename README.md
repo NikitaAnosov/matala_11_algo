@@ -62,3 +62,4 @@ Add or modify test cases in the `test_cases` list at the bottom of `fractional.p
 
 ## Credits
 
+chatGPT = [Link](https://chatgpt.com/share/6847217a-2960-800b-a71c-904f5c04f8a6)
